@@ -1,0 +1,52 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Backend virtualenv folder created by VS Code
+backend/
+
+# Distribution / packaging
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# dotenv environment variables file
+.env
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Byte-compiled / optimized
+__pycache__/
+*.pyc
+
+# Python virtualenv pip cache
+pip-log.txt
+
+# local settings
+local_settings.py
+
+# Database
+*.sqlite3
+
+# Ignore Python wheel files
+*.whl
